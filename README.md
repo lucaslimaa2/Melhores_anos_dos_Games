@@ -1,7 +1,7 @@
 # Os melhores anos da indústria de Games
 Este mini-projeto consiste em realizar uma Análise de Dados utilizando SQL para encontrar os melhores anos da indústria bilionária dos Games.
 
-# Visão holística/Arquitetura do projeto 
+# Visão holística do projeto 
 
 ![image](https://github.com/lucaslimaa2/SQL_Melhores_anos_dos_Games/assets/116041146/6b0e260e-243d-4939-ae46-55087e0baf5f)
 
